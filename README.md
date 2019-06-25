@@ -1,2 +1,2 @@
 # git-testing
-testingonly
+testing only
